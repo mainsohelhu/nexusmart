@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* That's it! Tailwind v4 handles the rest automatically */
+
+@theme {
+  --color-nexus-primary: #6366f1;
+  --color-nexus-dark: #0f172a;
+  --font-syne: "Syne", sans-serif;
+  --font-jakarta: "Plus Jakarta Sans", sans-serif;
+}
